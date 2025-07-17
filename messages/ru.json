@@ -1,0 +1,23 @@
+{
+  "LocaleSwitcher": { "label": "Сменить язык" },
+  "LocaleLayout": {
+    "title": "Building Democracy Foundation",
+    "description": "Building Democracy Foundation"
+  },
+
+  "MainPage": {
+    "title": "О нас",
+    "content": "Это содержание страницы \"О нас\" на русском.",
+    "footerText": "21111© Building Democracy Foundation, 501(c)(3), EIN: 99-2540715, 2024–2025",
+    "address": "211111405 E Laburnum Ave Ste 3 Richmond, VA 23222",
+    "cryptoInfo": "211111Building Democracy Foundation en",
+    "contactEmail": "211111igors@buildingdemocracy.foundation"
+  },
+  "Navigation": {
+    "name": "Building Democracy Foundation",
+    "about": "О нас",
+    "director": "Управляющий директор",
+    "donate": "Помочь",
+    "contacts": "Контакты"
+  }
+}

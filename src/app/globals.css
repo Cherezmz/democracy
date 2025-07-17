@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --font-montserrat: var(--font-montserrat);
+  --font-garamond: var(--font-eb-garamond);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Montserrat, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
